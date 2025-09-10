@@ -1,6 +1,6 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux';
-import { decrement, increment } from './slice/countslice';
+import { decrement, increment } from './slice/counterSlice';
 
 const Home = () => {
 
